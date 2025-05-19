@@ -97,7 +97,7 @@ pip install -r requirements.txt
 
 ## 📚 References
 
-- **Udacity Computer Vision Nanodegree** https://www.udacity.com/course/computer-vision-nanodegree--nd891
+- [Udacity Computer Vision Nanodegree](https://www.udacity.com/course/computer-vision-nanodegree--nd891)
 ---
 
 ## 📝 License
